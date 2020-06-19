@@ -107,7 +107,8 @@ translations.pl = {
 		,
 		[4] = "<FC><p align='center'>Co Nowego?</p><N>\n\n" ..
 			"• Moduł ~~stał się~~ oficjalny.\n" ..
-			"• Moduł został całkowicie przepisany na nowo."
+			"• Moduł został całkowicie przepisany na nowo.
+			"• Możesz teraz dowiedzieć się więcej o mocach.
 	},
 
 	commandDescriptions = {
